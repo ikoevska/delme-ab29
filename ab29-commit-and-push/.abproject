@@ -1,0 +1,40 @@
+{
+  "ProjectName": "ab29-commit-and-push",
+  "ProjectGuid": "040a9ff4-e950-4b58-a8f4-66603c5e3092",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.ab29commitandpush",
+  "DisplayName": "ab29-commit-and-push",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{72a5eeb4-1464-42fc-b747-6136a67cfa0e}",
+  "WP8ProductID": "{cc05e49a-a13c-47a4-81cf-084d763dcac5}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.ab29commitandpush",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
